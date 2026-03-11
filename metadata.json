@@ -1,0 +1,5 @@
+{
+  "name": "Student Dashboard Evaluator",
+  "description": "Evaluate student Tableau/Power BI dashboards from PDFs using AI, including rubric scoring and similarity detection.",
+  "requestFramePermissions": []
+}
